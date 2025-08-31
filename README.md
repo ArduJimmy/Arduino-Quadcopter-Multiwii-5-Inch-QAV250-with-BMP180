@@ -3,3 +3,8 @@ This is brushless drone version with barometer module bmp180
 
 <h1>Please see our Channel Video Description for Detail</h1>
 <p>Dont forget to subscribe, like and share.</p>
+
+<h2>Schematic Diagram</h2>
+<br />
+<img src="https://github.com/ArduJimmy/Arduino-Quadcopter-Multiwii-5-Inch-QAV250-with-BMP180/blob/main/schematic-diagram-arduino-quadcopter-drone.jpg" title=Arduino Quadcopter Drone"/>
+<br /><br />
