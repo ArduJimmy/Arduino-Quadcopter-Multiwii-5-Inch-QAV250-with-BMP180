@@ -8,6 +8,8 @@ This is brushless drone version with barometer module bmp180
 <br />
 <img src="https://github.com/ArduJimmy/Arduino-Quadcopter-Multiwii-5-Inch-QAV250-with-BMP180/blob/main/schematic-diagram-arduino-quadcopter-drone.jpg" title=Arduino Quadcopter Drone"/>
 <br /><br />
+
+<img src="https://github.com/ArduJimmy/Arduino-Quadcopter-Multiwii-5-Inch-QAV250-with-BMP180/blob/main/Spin-Direction-Pin-Configuration.jpg" alt="pin configuration, motor propeller direction, arduino quadcopter" title=""/><br /><br />
 <p>Please in video description for the detail of this <a href="https://www.youtube.com/watch?v=1t2510E7TZg">arduino quadcopter drone</a> project: https://www.youtube.com/watch?v=1t2510E7TZg</p>
 
 <h3>Barometer Module BMP180 and PID TUNING at MultiwiiConf GUI</h3>
